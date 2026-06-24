@@ -1,6 +1,6 @@
 # Olá! Eu sou o Eduardo Henrique 👋
 
-Sou estudante do 5º período de Engenharia de Computação e atuo como Tech Lead e Hands-on Product Owner no projeto AgroSense. Meu foco é resolver problemas reais com painéis web e automações RPA.
+Sou estudante do 5º período de Engenharia de Computação e atuo como Tech Lead e Hands-on Product Owner no projeto AgroSense. Meu foco é Back-end e Dados: construo APIs robustas com Django REST Framework, modelo dados em PostgreSQL e automatizo processos com Python.
 
 ### 🛠️ Minha Stack & Ferramentas
 * **Linguagens:** Python, C++, TypeScript, JavaScript
